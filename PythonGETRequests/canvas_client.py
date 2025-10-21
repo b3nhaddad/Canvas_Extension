@@ -1,7 +1,7 @@
 import os, requests
 
 BASE = "https://colostate.instructure.com"
-TOKEN = "3716~t8TPNnMunC3uvNRL7DuCDEDDn7aXEcAemzLJhKUx9RGLEGBQ29RXzB6RA4e3f6aT"
+TOKEN = ""
 
 _session = None
 def session():
